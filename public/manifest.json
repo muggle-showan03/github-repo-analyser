@@ -1,0 +1,23 @@
+{
+  "short_name": "GitHub Analytics",
+  "name": "GitHub Repository Analytics Dashboard",
+  "description": "AI-powered GitHub repository analytics with interactive visualizations",
+  "icons": [
+    {
+      "src": "/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/manifest-icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "orientation": "portrait-primary"
+}
